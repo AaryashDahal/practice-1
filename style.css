@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+    color: black;
+  background-image: -o-linear-gradient(red, green, blue);
+}
+
+li {
+    display: inline-block;
+    padding: 20px 23px;
+
+}
+
+
+   div{ font-size: 25px;}
+
+
+
+
+div:hover {
+    text-decoration: underline solid rgb(73, 124, 124);
+    color: peru;
+}
+ 
+input{
+    background-color: blueviolet;
+    color: aqua;
+    border: 5px solid rgb(81, 81, 122);
+    border-radius: 30px;
+    height: 25px;
+    width: 200px;
+}
